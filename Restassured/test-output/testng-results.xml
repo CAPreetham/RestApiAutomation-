@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-07T12:47:08 IST" name="Default suite" finished-at="2021-12-07T12:47:18 IST" duration-ms="10550">
+    <groups>
+    </groups>
+    <test started-at="2021-12-07T12:47:08 IST" name="Default test" finished-at="2021-12-07T12:47:18 IST" duration-ms="10550">
+      <class name="RestApiAzure.RestAPIAzureBooks">
+        <test-method signature="restApiAddBook()[pri:0, instance:RestApiAzure.RestAPIAzureBooks@355ce81c]" started-at="2021-12-07T12:47:08 IST" name="restApiAddBook" finished-at="2021-12-07T12:47:12 IST" duration-ms="4003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApiAddBook -->
+        <test-method signature="restApiEditBook()[pri:0, instance:RestApiAzure.RestAPIAzureBooks@355ce81c]" started-at="2021-12-07T12:47:12 IST" name="restApiEditBook" finished-at="2021-12-07T12:47:13 IST" duration-ms="988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApiEditBook -->
+        <test-method signature="restApiGetBookByID()[pri:0, instance:RestApiAzure.RestAPIAzureBooks@355ce81c]" started-at="2021-12-07T12:47:13 IST" name="restApiGetBookByID" finished-at="2021-12-07T12:47:15 IST" duration-ms="2039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApiGetBookByID -->
+        <test-method signature="restApiGetBooksList()[pri:0, instance:RestApiAzure.RestAPIAzureBooks@355ce81c]" started-at="2021-12-07T12:47:15 IST" name="restApiGetBooksList" finished-at="2021-12-07T12:47:18 IST" duration-ms="3431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApiGetBooksList -->
+      </class> <!-- RestApiAzure.RestAPIAzureBooks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
